@@ -1,0 +1,5 @@
+vless://7493d6fd-8102-49cc-8770-d0302e807570@www.doewde.tk:443?flow=&encryption=none&security=tls&sni=www.doewde.tk&type=ws&host=www.doewde.tk&path=/?ed=2048&headerType=none&alpn=#www.doewde.tk 
+vmess://eyJ2IjoiMiIsImFkZCI6ImRqbnhjdi5iaGppbHJkLnJlcGwuY28iLCJwb3J0Ijo0NDMsInNjeSI6ImF1dG8iLCJwcyI6InJlcGwiLCJuZXQiOiJ3cyIsImlkIjoiOWRhYjM4NGMtM2Y0My00MGNkLTk5NmQtNjI0NzBmNzM2ODFhIiwiYWxwbiI6IiIsImFpZCI6MCwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGpueGN2LmJoamlscmQucmVwbC5jbyIsInBhdGgiOiIvdm0/ZWQ9MjA0OCIsInRscyI6InRscyIsInNuaSI6IiJ9 
+trojan://9dab384c-3f43-40cd-996d-62470f73681a@djnxcv.bhjilrd.repl.co:443?flow=&security=tls&sni=djnxcv.bhjilrd.repl.co&type=ws&host=djnxcv.bhjilrd.repl.co&path=/tr?ed2049&alpn=#repl
+vless://9dab384c-3f43-40cd-996d-62470f73681a@djnxcv.bhjilrd.repl.co:443?flow=&encryption=none&security=tls&sni=&type=ws&host=djnxcv.bhjilrd.repl.co&path=/vl&headerType=none&alpn=#repl 
+vless://9dab384c-3f43-40cd-996d-62470f73681a@tyjedgfcv.pages.dev:443?flow=&encryption=none&security=tls&sni=tyjedgfcv.pages.dev&type=ws&host=tyjedgfcv.pages.dev&path=/vl&headerType=none&alpn=# 
